@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Igor Morais</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Sobre mim</a>
+                </li>
+                <li>
+                    <a href="project.html">Projetos</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contato</a>
+                </li>
+            </ul>
+         </nav>
+    
+         <header>
+            <div class="center">
+                <img src="./img/igur.png"></img>
+            </div>
+            <h1>Igor Morais</h1>
+            <h2>Analista de Dados</h2><br>
+         </header>
+    
+         <main>
+            <section>
+                <h3>Sobre mim</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore illo itaque dolor, consequatur eaque hic aliquam, quod exercitationem sapiente placeat sed doloremque ut distinctio minus expedita labore neque quaerat rem!
+                </p>
+            </section>
+            <section>
+                <h3>formação</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore illo itaque dolor, consequatur eaque hic aliquam, quod exercitationem sapiente placeat sed doloremque ut distinctio minus expedita labore neque quaerat rem!
+                </p>
+            </section>
+            <section>
+                <h3>Cursos</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore illo itaque dolor, consequatur eaque hic aliquam, quod exercitationem sapiente placeat sed doloremque ut distinctio minus expedita labore neque quaerat rem!
+                </p>
+            </section>
+         </main>
+    
+         <footer>
+            <a href="https://www.linkedin.com/in/igor-morais-0b0880234/" target="_blank" rel="noopener noreferrer">
+             <img src="./img/linkedin.png"></img>
+             <p>linkedin</p>
+            </a>
+            <a href="https://www.instagram.com/igur_morais/" target="_blank" rel="noopener noreferrer">
+            <img src="./img/instagram.png"></img>
+            <p>instagram</p>
+               </a>
+         </footer>
+    </div>
+    
+    </body>
+</html>
